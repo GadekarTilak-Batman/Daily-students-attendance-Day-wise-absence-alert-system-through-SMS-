@@ -1,0 +1,6 @@
+{
+  "name": "Automated Student Absence Alert System & Architectural Blueprint",
+  "description": "Enterprise-grade student attendance management and real-time parent SMS broadcast engine with carrier delivery logs, two-way parent acknowledgement simulator, and technical architectural blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
